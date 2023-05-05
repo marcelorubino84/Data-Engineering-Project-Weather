@@ -117,5 +117,4 @@ Finally, the weather table was also checked:
 
 Some changes need to be done to some of the notebooks to make the automatization better.
 
-The whole process can be read in: https://medium.com/@m.alejandro.rubino/building-pipes-and-making-data-flow-through-them-16802794eb06
 
